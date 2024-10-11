@@ -49,4 +49,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use your personal access token instead of the default token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
