@@ -70,7 +70,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/adam12bT/adam12bT/output-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/adam12bT/adam12bT/tree/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
