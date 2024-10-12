@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a game**
+ 🔭 I’m currently working on **a website **
  
  🌱 I’m currently learning **Docker, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... 
+💬 Ask me about **Node.js, React, postgresql,java... 
 
 
  </div>
